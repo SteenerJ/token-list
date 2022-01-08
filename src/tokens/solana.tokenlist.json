@@ -73502,6 +73502,17 @@
         "friendship-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4siTytuQBYjuwdfYWDX5Ei5g9ucC6GJ9rXiaCYR1ARLt",
+      "symbol": "STNR",
+      "name": "Steener Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/SteenerJ/logo/blob/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
@@ -73509,4 +73520,4 @@
     "minor": 3,
     "patch": 3
   }
-}
+}    
